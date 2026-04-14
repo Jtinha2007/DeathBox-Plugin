@@ -1,6 +1,6 @@
 # Plugin
 
-> Esse repositório contém uma extensão desenvolvida para o jogo Unturned.
+> Esse repositório contém uma extensão desenvolvida para o jogo Unturned e a loja UnturnedStore (https://unturnedstore.com/products/209).
 
 ## ⚠️ Aviso
 
